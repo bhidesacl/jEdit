@@ -1,0 +1,3 @@
+File,Line,Severity,Description,Rule,Tag
+org/gjt/sp/jedit/textarea/TextArea.java,173,Low,Sample Low Issue,SampleLow,SampleBuildWarning
+org/gjt/sp/jedit/textarea/TextArea.java,229,Low,Sample Low Issue,SampleLow,SampleBuildWarning
